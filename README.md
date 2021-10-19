@@ -1,5 +1,5 @@
 # REETO-GAMES
 
-B: LOR TFT
+B: LOR/VALORANT TFT
 M: story, Főoldal
 K: LOL WTF (Wild Drift)
