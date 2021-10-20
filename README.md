@@ -1,5 +1,5 @@
 # REETO-GAMES
 
-B: LOR/VALORANT TFT
-M: story, Főoldal
-K: LOL WTF (Wild Drift)
+B: TFT 80 karakter lor 
+M: Főoldal 80 karakter valorant 
+K: LOL WTF (Wild Drift) események (Words, LCS, E-Sport)
