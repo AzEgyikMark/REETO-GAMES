@@ -7,7 +7,7 @@ K:  WTF(Wild Drift)
 
 kész: 
 
-B:TFT
+B:TFT karakterek (2. fele Morde-tól) 
 M:karakterek (1. fele Mf-ig) (Játékok: Lol Valorant WTF LOR TFT)
 K:LOL
 
