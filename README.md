@@ -1,5 +1,18 @@
 # REETO-GAMES
 
-B: TFT lor 
-M: Főoldal karakterek (1. fele Mf-ig) valorant (Játékok: Lol Valorant WTF LOR TFT)
-K: LOL WTF (Wild Drift) események (Words, LCS, E-Sport)
+B:  lor 
+M: Főoldal  valorant 
+K:  WTF(Wild Drift)
+
+
+kész: 
+
+B:TFT
+M:karakterek (1. fele Mf-ig) (Játékok: Lol Valorant WTF LOR TFT)
+K:LOL
+
+Mégsenem kellettett:
+
+B:
+M:
+K: események (Words, LCS, E-Sport)
